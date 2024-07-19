@@ -49,7 +49,7 @@ Enter your health metrics in the provided form.
 Click "Submit" to send the data to the backend.
    
   ### Deployment
-The application is hosted on Vercel and can be accessed at https://your-app-name.vercel.app.
+The application is hosted on Vercel and can be accessed at https://health-track-73mwf1n14-edith-augustines-projects.vercel.app.
 
 ### Contributing
 Contributions are welcome! Please open an issue or submit a pull request with your suggestions or improvements.
